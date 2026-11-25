@@ -1,0 +1,4 @@
+# Extra packages for running the training notebook locally (on top of ../requirements.txt)
+matplotlib>=3.8
+seaborn>=0.13
+jupyter>=1.0
